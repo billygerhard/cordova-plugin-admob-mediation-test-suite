@@ -1,0 +1,28 @@
+{
+  "name": "AdmobTestSuite",
+  "version": "0.0.1",
+  "description": "Run the AdMob Mediation Test Suite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billygerhard/cordova-plugin-admob-test-suite"
+  },
+  "cordova": {
+    "id": "admob-test-suite",
+    "platforms": [
+      "iOS,Android"
+    ]
+  },
+  "keywords": [
+    "AdmobTestSuite",
+    "ionic-AdmobTestSuite",
+    "cordova AdmobTestSuite",
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "ios",
+    "ionic"
+  ],
+  "author": "billygerhard",
+  "license": "MIT"
+}
